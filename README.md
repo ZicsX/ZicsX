@@ -78,19 +78,6 @@
 
 <br>
 
-**My Repos** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
-| | | | |
-
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-<br>
-
 <!--[website]: -->
 [twitter]: https://twitter.com/ZicsX?s=09
 <!--[youtube]: https://www.youtube.com/ZicsX-->
