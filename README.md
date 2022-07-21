@@ -50,8 +50,5 @@
 <br>
 
 ### :zap: Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZicsX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Satish's Github Stats" width="50%">
-
-#### Thank You
-⭐️ From [ZicsX](https://github.com/ZicsX)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ZicsX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Satish's Github Stats" width="49%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ZicsX&theme=github-dark" width="49%">
