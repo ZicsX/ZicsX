@@ -2,10 +2,6 @@
   <h1 align="center"><b>Hello there, I'm Satish 👋</b></h1>
 </p>
 
-<p>
-  <h4 align="center"><b>"O(1) > O (logn) > O (n) > O (nlogn)"</b></h4>
-</p>
-
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/satishkumarmishra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -23,7 +19,7 @@
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [LinkedIn ](https://www.linkedin.com/in/satishkumarmishra/)
 - 🧗 I try to: Go beyond and push the bounds
